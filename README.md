@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, This is Ashwini 👋
+### <color='blue'> Programmer, Application Developer </color>
 
-<!--
-**AshwiniN91/AshwiniN91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Featured Projects:
 
-Here are some ideas to get you started:
+### 👨‍💻 Software Development Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### C# (.NET Desktop Applications) 
+* [PharmaManagementSolution] (https://github.com/AshwiniN91/PharmaManagementSolution) - Simple VB.NET application used to manage drug list, manufacturers, agents and billing
+
+#### Python
+* [Retail App] (https://github.com/AshwiniN91/Flask-Market-App) - Retail Market Application developed using Python Flask
+
+#### Miscellaneous
+* [SQL Scripts] (https://github.com/AshwiniN91/SQL-Scripts) - SQL Syntaxes used in the daily workspace
+
