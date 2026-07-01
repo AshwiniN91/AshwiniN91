@@ -1,5 +1,5 @@
 # Hi there, This is Ashwini 👋
-## $\color{lightblue}{\text{Programmer, Application Developer}}$
+$\color{lightblue}{\text{Programmer, Application Developer}}$
 
 ### My Featured Projects:
 
