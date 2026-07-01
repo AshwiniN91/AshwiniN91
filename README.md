@@ -4,7 +4,7 @@ $\color{blue}{\text{Programmer, Application Developer}}$
 ### 👨‍💻 My Software Development Projects:
 
 #### C# (.NET Desktop Applications) 
-* [PharmaManagementSolution](https://github.com/AshwiniN91/PharmaManagementSolution) - Simple VB.NET application used to manage drug list, manufacturers, agents and billing
+* [PharmaManagementSolution](https://github.com/AshwiniN91/PharmaManagementSolution) -  VB.NET application developed for a local pharmacy
 
 #### Python
 * [Retail App](https://github.com/AshwiniN91/Flask-Market-App) - Retail Market Application developed using Python Flask
